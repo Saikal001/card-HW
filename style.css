@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+  body{
+    min-width: 1170px;
+  }
+
+  .col-6 {
+    flex: 50% 0 0;
+  }
